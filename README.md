@@ -59,7 +59,8 @@ How to Use the Dashboard:
 Clone the Repository:
 Clone this repository to your local system.
 
-git clone https://github.com/your-repo/employee-performance-dashboard.git
+git clone https://github.com/Pkoppad/Priyanka-Shankar-Innovatives.git
+
 
 Open the Power BI File:
 Download and open the .pbix file using Power BI Desktop.
